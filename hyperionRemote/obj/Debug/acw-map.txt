@@ -1,0 +1,4 @@
+hyperionRemote.MainActivity, hyperionRemote;md51c34ee719b4d9c61ab22eda8f85eb41b.MainActivity
+hyperionRemote.MainActivity, hyperionRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51c34ee719b4d9c61ab22eda8f85eb41b.MainActivity
+hyperionRemote.MainActivity;md51c34ee719b4d9c61ab22eda8f85eb41b.MainActivity
+hyperionremote.MainActivity;md51c34ee719b4d9c61ab22eda8f85eb41b.MainActivity

@@ -1,0 +1,12 @@
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\hyperionRemote.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\Google.ProtocolBuffers.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\Google.ProtocolBuffers.Serialization.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\Mono.Android.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\mscorlib.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\Newtonsoft.Json.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\System.Core.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\System.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\System.Xml.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\System.Xml.Linq.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\System.Runtime.Serialization.dll
+\\rick-htpc\Projects\VS\hyperionRemote\hyperionRemote\obj\Debug\assemblies\System.ServiceModel.Internals.dll
